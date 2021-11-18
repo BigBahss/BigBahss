@@ -1,1 +1,1 @@
-[![Tyler Dennis' GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBahss&show_icons=true&title_color=82AAFF&icon_color=C792EA&text_color=8F93A2&bg_color=0F111A)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigBahss&show_icons=true&title_color=82AAFF&icon_color=C792EA&text_color=8F93A2&bg_color=0F111A)](https://github.com/anuraghazra/github-readme-stats)
